@@ -1,0 +1,20 @@
+.main-header {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+.main-header h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+.metric-card {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+.stSidebar {
+    background-color: #f8f9fa;
+}
